@@ -1,1 +1,1 @@
-# Snake_Game
+Retro Snake Game using JFrame.
